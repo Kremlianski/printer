@@ -6,5 +6,6 @@
 
     <groupId>ru.exxo.jutil</groupId>
     <artifactId>printer</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
+
 </project>
