@@ -20,8 +20,8 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:git:https://github.com/Kremlianski/printer.git</connection>
-        <developerConnection>scm:git:https://github.com/Kremlianski/printer.git</developerConnection>
+        <connection>scm:git:git@github.com/Kremlianski/printer.git</connection>
+        <developerConnection>scm:git:git@github.com/Kremlianski/printer.git</developerConnection>
         <url>https://github.com/Kremlianski/printer</url>
     </scm>
     <developers>
