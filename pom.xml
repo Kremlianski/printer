@@ -23,6 +23,7 @@
         <connection>scm:git:github.com:Kremlianski/printer.git</connection>
         <developerConnection>scm:git:git@github.com:Kremlianski/printer.git</developerConnection>
         <url>https://github.com/Kremlianski/printer.git</url>
+        <tag>HEAD</tag>
     </scm>
     <developers>
         <developer>
