@@ -26,3 +26,5 @@ hs_err_pid*
 target/*
 printer.iml
 
+/pom.xml.releaseBackup
+/release.properties
