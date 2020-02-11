@@ -13,11 +13,11 @@ It appears , that this problem can be solved easily
 ```
     <dependency>
        <groupId>ru.exxo.jutil</groupId>
-      <artifactId>printer</artifactId>
+       <artifactId>printer</artifactId>
        <version>1.2</version>
     </dependency>
 ```
-#### Gradle
+#### Gradle:
 ```
     implementation 'ru.exxo.jutil:printer:1.2'
 ```
