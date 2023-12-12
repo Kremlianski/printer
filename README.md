@@ -5,7 +5,7 @@
 
 Some features of Java are annoying for me, especially after several years of Scala experience. First of all: why should I use System.out.println instead of println!
 
-It appears , that this problem can be solved easily
+It appears , that this problem can be solved easily.
 
 ## Quick Start
 
